@@ -1,0 +1,31 @@
+id,question,answer
+1,What is Python?,Python is a programming language used for data science and web development.
+2,What is machine learning?,Machine learning is a type of AI where computers learn from data.
+3,What is a DataFrame?,A DataFrame is a table-like structure in pandas used for data analysis.
+4,What is Git?,Git is a version control system that tracks changes in code over time.
+5,What is an API?,An API is a way for two programs to communicate with each other.
+6,What is Docker?,Docker is a tool that packages applications into containers.
+7,What is SQL?,SQL is a language for querying and managing databases.
+8,What is a neural network?,A neural network is a machine learning model inspired by the human brain.
+9,What is cloud computing?,Cloud computing means using remote servers over the internet.
+10,What is data cleaning?,Data cleaning is the process of fixing incorrect or missing data.
+11,What is a model in ML?,A model is a trained algorithm that makes predictions based on data.
+12,What is a vector?,A vector is a list of numbers that represents data for computers.
+13,What is NLP?,NLP helps computers understand human language.
+14,What is a function?,A function is a reusable block of code that performs a specific task.
+15,What is a database?,A database is an organized collection of data stored electronically.
+16,What is deep learning?,Deep learning is a type of machine learning that uses neural networks with multiple layers to learn complex patterns from data.
+17,What is data science?,"Data science is the field of using data, statistics, and programming to discover useful information and support decisions."
+18,What is NumPy?,NumPy is a Python library used for numerical calculations and working with arrays.
+19,What is Pandas?,"Pandas is a Python library used to organize, clean, analyze, and manipulate structured data."
+20,What is a database?,"A database is an organized collection of information that can be stored, accessed, and managed electronically."
+21,What is SQL?,"SQL is a language used to create, retrieve, update, and delete data in relational databases."
+22,What is a neural network?,A neural network is a machine learning model inspired by the way interconnected neurons process information.
+23,What is natural language processing?,Natural language processing is a field of artificial intelligence that helps computers understand and process human language.
+24,What is an algorithm?,An algorithm is a sequence of steps used to solve a problem or complete a task.
+25,What is data cleaning?,"Data cleaning is the process of identifying and correcting missing, duplicate, inaccurate, or inconsistent data."
+26,What is a machine learning model?,A machine learning model is a system trained on data to identify patterns and make predictions or decisions.
+27,What is cloud computing?,"Cloud computing provides computing resources such as storage, servers, and software over the internet."
+28,What is an API used for?,An API allows different software applications to communicate and exchange information.
+29,What is version control?,Version control tracks changes to files over time and helps developers manage different versions of a project.
+30,What is semantic search?,Semantic search finds information based on the meaning and intent of a query rather than only matching exact words.
